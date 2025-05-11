@@ -7,5 +7,13 @@
     },
     "dataHash": "2715a9c791e358fbe8a4290d0ffc1fad"
   },
-  "globalLastUpdated": "2025-05-11T22:12:43.595Z"
+  "globalLastUpdated": "2025-05-11T22:23:47.753Z",
+  "bouts-backup-1747002226787": {
+    "tournamentBattles": [],
+    "fetchTimestamp": "2025-05-11T22:23:46.787Z",
+    "stats": {
+      "totalBattles": 0
+    },
+    "dataHash": "852001273099109141b99cc7ae598a2e"
+  }
 }
