@@ -1,0 +1,18 @@
+{
+  "example-tournament-1746991620245": {
+    "winners": [
+      "player1",
+      "player2"
+    ],
+    "stats": {
+      "totalParticipants": 100,
+      "topScores": [
+        85,
+        75,
+        65
+      ]
+    },
+    "lastUpdated": "2025-05-11T19:27:04.531Z"
+  },
+  "globalLastUpdated": "2025-05-11T19:27:04.531Z"
+}
