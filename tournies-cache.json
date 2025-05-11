@@ -1,5 +1,5 @@
 {
-  "tournament-backup-1746993182389": {
+  "tournament-backup-1746993420799": {
     "tournaments": [
       {
         "id": "228",
@@ -31669,17 +31669,27 @@
         "tournament_id": 264,
         "bout_id": 11,
         "winner_address": null,
-        "influence_side_a": 150000,
-        "influence_side_b": 100000,
-        "spectator_count_side_a": 2,
-        "spectator_count_side_b": 1,
+        "influence_side_a": 371000,
+        "influence_side_b": 200000,
+        "spectator_count_side_a": 6,
+        "spectator_count_side_b": 2,
         "sponsor_count": null,
         "sponsors": null,
         "spectators": [
           {
             "side": 1,
+            "influence": 200000,
+            "spectator_address": "0x971bdacd04ef40141ddb6ba175d4f76665103c81"
+          },
+          {
+            "side": 1,
             "influence": 100000,
             "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 1000,
+            "spectator_address": "0xa13030b990d244243924d8223df60df06d0fbec8"
           },
           {
             "side": 2,
@@ -31687,9 +31697,24 @@
             "spectator_address": "0xbd0396f11a19a8389b3d999c1b2f7255929b657e"
           },
           {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
             "side": 1,
             "influence": 50000,
             "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
           }
         ],
         "rewards": null,
@@ -31804,22 +31829,37 @@
         "tournament_id": 264,
         "bout_id": 9,
         "winner_address": null,
-        "influence_side_a": 270000,
-        "influence_side_b": 0,
-        "spectator_count_side_a": 5,
-        "spectator_count_side_b": 0,
+        "influence_side_a": 570000,
+        "influence_side_b": 101000,
+        "spectator_count_side_a": 6,
+        "spectator_count_side_b": 2,
         "sponsor_count": null,
         "sponsors": null,
         "spectators": [
+          {
+            "side": 1,
+            "influence": 300000,
+            "spectator_address": "0x971bdacd04ef40141ddb6ba175d4f76665103c81"
+          },
           {
             "side": 1,
             "influence": 100000,
             "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
           },
           {
+            "side": 2,
+            "influence": 1000,
+            "spectator_address": "0xa13030b990d244243924d8223df60df06d0fbec8"
+          },
+          {
             "side": 1,
             "influence": 100000,
             "spectator_address": "0xbd0396f11a19a8389b3d999c1b2f7255929b657e"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
           },
           {
             "side": 1,
@@ -31847,17 +31887,27 @@
         "tournament_id": 264,
         "bout_id": 12,
         "winner_address": null,
-        "influence_side_a": 200000,
-        "influence_side_b": 50000,
-        "spectator_count_side_a": 2,
-        "spectator_count_side_b": 1,
+        "influence_side_a": 461000,
+        "influence_side_b": 150000,
+        "spectator_count_side_a": 5,
+        "spectator_count_side_b": 2,
         "sponsor_count": null,
         "sponsors": null,
         "spectators": [
           {
             "side": 1,
+            "influence": 250000,
+            "spectator_address": "0x971bdacd04ef40141ddb6ba175d4f76665103c81"
+          },
+          {
+            "side": 1,
             "influence": 100000,
             "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 1000,
+            "spectator_address": "0xa13030b990d244243924d8223df60df06d0fbec8"
           },
           {
             "side": 1,
@@ -31866,8 +31916,18 @@
           },
           {
             "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 2,
             "influence": 50000,
             "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
           }
         ],
         "rewards": null,
@@ -31880,17 +31940,27 @@
         "tournament_id": 264,
         "bout_id": 10,
         "winner_address": null,
-        "influence_side_a": 250000,
-        "influence_side_b": 0,
-        "spectator_count_side_a": 3,
-        "spectator_count_side_b": 0,
+        "influence_side_a": 260000,
+        "influence_side_b": 211000,
+        "spectator_count_side_a": 4,
+        "spectator_count_side_b": 4,
         "sponsor_count": null,
         "sponsors": null,
         "spectators": [
           {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x971bdacd04ef40141ddb6ba175d4f76665103c81"
+          },
+          {
             "side": 1,
             "influence": 100000,
             "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 1000,
+            "spectator_address": "0xa13030b990d244243924d8223df60df06d0fbec8"
           },
           {
             "side": 1,
@@ -31898,9 +31968,24 @@
             "spectator_address": "0xbd0396f11a19a8389b3d999c1b2f7255929b657e"
           },
           {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
             "side": 1,
             "influence": 50000,
             "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
           }
         ],
         "rewards": null,
@@ -46715,12 +46800,11 @@
         "winner": "0x42c1b36bb243bfe02326473ec02a3488b55183e5"
       }
     ],
-    "fetchTimestamp": "2025-05-11T19:53:02.389Z",
+    "fetchTimestamp": "2025-05-11T19:57:00.799Z",
     "stats": {
       "totalTournaments": 85,
       "totalBattles": 369
-    },
-    "lastUpdated": "2025-05-11T19:53:02.578Z"
+    }
   },
-  "globalLastUpdated": "2025-05-11T19:53:02.578Z"
+  "globalLastUpdated": "2025-05-11T19:57:02.873Z"
 }
