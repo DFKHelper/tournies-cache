@@ -1,5 +1,5 @@
 {
-  "tournament-backup-missing-1747012035075": {
+  "tournament-backup-missing-1747012098565": {
     "tournaments": [
       {
         "id": "3",
@@ -140419,12 +140419,12 @@
         "spectator_count_side_b": null
       }
     ],
-    "fetchTimestamp": "2025-05-12T01:07:15.075Z",
+    "fetchTimestamp": "2025-05-12T01:08:18.565Z",
     "dataHash": "edf52fe89bd87174f8e9b886fecdc48a",
     "stats": {
       "totalTournaments": 161,
       "totalBattles": 1619
     }
   },
-  "globalLastUpdated": "2025-05-12T01:07:15.343Z"
+  "globalLastUpdated": "2025-05-12T01:08:18.786Z"
 }
