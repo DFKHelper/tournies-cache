@@ -1,5 +1,5 @@
 {
-  "bouts-backup-1748106529649": {
+  "bouts-backup-1748111393839": {
     "tournamentBattles": [
       {
         "battle_id": "160000000341",
@@ -5435,6 +5435,99 @@
         "winner": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
       },
       {
+        "battle_id": "120000000345",
+        "tournament_id": 345,
+        "bout_id": 12,
+        "winner_address": null,
+        "influence_side_a": 790000,
+        "influence_side_b": 890100,
+        "spectator_count_side_a": 9,
+        "spectator_count_side_b": 6,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 250000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 2,
+            "influence": 250000,
+            "spectator_address": "0x4b9fd63da63d87644e370e02133e70bc650e8b64"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x0685c633fa2cba58ea7c05a74f7d5c7fd921c344"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0x1154bc6517cb4297604682d108afc971ae3161b8"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 2,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 1,
+            "influence": 175000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xa091c95146d77fb23a9329d33731d1d9beef3b80"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
+          }
+        ],
+        "rewards": null,
+        "host": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85",
+        "opponent": "0xb851aab224602b802d0706208a31be5807605c7f",
+        "winner": null
+      },
+      {
         "battle_id": "120000000341",
         "tournament_id": 341,
         "bout_id": 12,
@@ -6759,6 +6852,104 @@
         "host": null,
         "opponent": null,
         "winner": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+      },
+      {
+        "battle_id": "110000000345",
+        "tournament_id": 345,
+        "bout_id": 11,
+        "winner_address": null,
+        "influence_side_a": 440100,
+        "influence_side_b": 1160290,
+        "spectator_count_side_a": 6,
+        "spectator_count_side_b": 10,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11bbbd33eaf01a254cd9d35051d8d18ecc941247"
+          },
+          {
+            "side": 1,
+            "influence": 250000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 35290,
+            "spectator_address": "0xe883aaea568f09389e973898cd4e96484063b3f3"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 2,
+            "influence": 250000,
+            "spectator_address": "0x4b9fd63da63d87644e370e02133e70bc650e8b64"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x0685c633fa2cba58ea7c05a74f7d5c7fd921c344"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0x1154bc6517cb4297604682d108afc971ae3161b8"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 1,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 2,
+            "influence": 155000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0xa091c95146d77fb23a9329d33731d1d9beef3b80"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
+          }
+        ],
+        "rewards": null,
+        "host": "0x857a468a06e8ae3dd3c0d24f2653b45ecf6b4f2b",
+        "opponent": "0x00ce8d6ddde58819f3a0979ab7fa93b79626bd7c",
+        "winner": null
       },
       {
         "battle_id": "110000000341",
@@ -8127,6 +8318,104 @@
         "host": null,
         "opponent": null,
         "winner": "0xda078d2712257ca3d701250b9904c57caf0a7c9b"
+      },
+      {
+        "battle_id": "100000000345",
+        "tournament_id": 345,
+        "bout_id": 10,
+        "winner_address": null,
+        "influence_side_a": 659376,
+        "influence_side_b": 1392070,
+        "spectator_count_side_a": 7,
+        "spectator_count_side_b": 9,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 250000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 79376,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x4b9fd63da63d87644e370e02133e70bc650e8b64"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x0685c633fa2cba58ea7c05a74f7d5c7fd921c344"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0x1154bc6517cb4297604682d108afc971ae3161b8"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 2,
+            "influence": 129850,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xa091c95146d77fb23a9329d33731d1d9beef3b80"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+          },
+          {
+            "side": 2,
+            "influence": 522220,
+            "spectator_address": "0x327d0c6686a3fe84f5dcdffb670ffab87dcd44a6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
+          }
+        ],
+        "rewards": null,
+        "host": "0x526d50809d7d1710ee82bf5a73cfcf431a264893",
+        "opponent": "0xefba6f4352a4c8162dd789ab3788d5e287ca80cb",
+        "winner": null
       },
       {
         "battle_id": "100000000341",
@@ -9558,6 +9847,109 @@
         "host": null,
         "opponent": null,
         "winner": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
+      },
+      {
+        "battle_id": "90000000345",
+        "tournament_id": 345,
+        "bout_id": 9,
+        "winner_address": null,
+        "influence_side_a": 1439750,
+        "influence_side_b": 625100,
+        "spectator_count_side_a": 12,
+        "spectator_count_side_b": 5,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 250000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 2,
+            "influence": 250000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xa81599eac76045fce181ae0d83a5843c39867ad4"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x0685c633fa2cba58ea7c05a74f7d5c7fd921c344"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0x1154bc6517cb4297604682d108afc971ae3161b8"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 2,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 2,
+            "influence": 125000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+          },
+          {
+            "side": 1,
+            "influence": 418750,
+            "spectator_address": "0x327d0c6686a3fe84f5dcdffb670ffab87dcd44a6"
+          },
+          {
+            "side": 1,
+            "influence": 1000,
+            "spectator_address": "0xeab9f062e5594e9686b00d6c07dd20a67e86adc8"
+          }
+        ],
+        "rewards": null,
+        "host": "0x77cd22b584c063df360ef6b324ecce08b19839ca",
+        "opponent": "0xce618efa03023d3157d86a7f3d8bc56f7f56ba63",
+        "winner": null
       },
       {
         "battle_id": "90000000341",
@@ -11064,6 +11456,129 @@
         "winner": null
       },
       {
+        "battle_id": "80000000345",
+        "tournament_id": 345,
+        "bout_id": 8,
+        "winner_address": "0xb851aab224602b802d0706208a31be5807605c7f",
+        "influence_side_a": 805000,
+        "influence_side_b": 1412700,
+        "spectator_count_side_a": 9,
+        "spectator_count_side_b": 12,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 1000000,
+            "spectator_address": "0x4193938622a6f2233db288e199e863fb9f999cdd"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 2,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 2,
+            "influence": 75100,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 2,
+            "influence": 125000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xd70156b96e24f829da07f6068cb60ec54b184453"
+          }
+        ],
+        "rewards": null,
+        "host": "0xb851aab224602b802d0706208a31be5807605c7f",
+        "opponent": "0x9248af023494f586bbfb8ae9aacf9552b4752e66",
+        "winner": "0xb851aab224602b802d0706208a31be5807605c7f"
+      },
+      {
         "battle_id": "80000000344",
         "tournament_id": 344,
         "bout_id": 8,
@@ -11799,6 +12314,134 @@
         "host": "0x83f0fbbc2ccb84e38c32ac9d39aa130c7e1ed47c",
         "opponent": "0xdb33d4b4775396d5b40db9365638e337b4533d9f",
         "winner": "0xdb33d4b4775396d5b40db9365638e337b4533d9f"
+      },
+      {
+        "battle_id": "70000000345",
+        "tournament_id": 345,
+        "bout_id": 7,
+        "winner_address": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85",
+        "influence_side_a": 991000,
+        "influence_side_b": 441600,
+        "spectator_count_side_a": 11,
+        "spectator_count_side_b": 11,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 2,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 2,
+            "influence": 75100,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 2,
+            "influence": 170000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 71000,
+            "spectator_address": "0xb0b3c842d26c255252ef0993094ba0f73c33231a"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xd70156b96e24f829da07f6068cb60ec54b184453"
+          }
+        ],
+        "rewards": null,
+        "host": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85",
+        "opponent": "0x351ecfb4fffee82030ac48f78b139afd580af9d5",
+        "winner": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85"
       },
       {
         "battle_id": "70000000344",
@@ -12793,6 +13436,134 @@
         "winner": "0xdb33d4b4775396d5b40db9365638e337b4533d9f"
       },
       {
+        "battle_id": "60000000345",
+        "tournament_id": 345,
+        "bout_id": 6,
+        "winner_address": "0x00ce8d6ddde58819f3a0979ab7fa93b79626bd7c",
+        "influence_side_a": 460200,
+        "influence_side_b": 1838500,
+        "spectator_count_side_a": 10,
+        "spectator_count_side_b": 12,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 1000000,
+            "spectator_address": "0x4193938622a6f2233db288e199e863fb9f999cdd"
+          },
+          {
+            "side": 2,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xa81599eac76045fce181ae0d83a5843c39867ad4"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 1,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 75100,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 2,
+            "influence": 200000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9f278a36adc671643522fd74761d35db1e8241fb"
+          }
+        ],
+        "rewards": null,
+        "host": "0x83f0fbbc2ccb84e38c32ac9d39aa130c7e1ed47c",
+        "opponent": "0x00ce8d6ddde58819f3a0979ab7fa93b79626bd7c",
+        "winner": "0x00ce8d6ddde58819f3a0979ab7fa93b79626bd7c"
+      },
+      {
         "battle_id": "60000000344",
         "tournament_id": 344,
         "bout_id": 6,
@@ -13716,6 +14487,139 @@
         "host": "0x83f0fbbc2ccb84e38c32ac9d39aa130c7e1ed47c",
         "opponent": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b",
         "winner": "0x83f0fbbc2ccb84e38c32ac9d39aa130c7e1ed47c"
+      },
+      {
+        "battle_id": "50000000345",
+        "tournament_id": 345,
+        "bout_id": 5,
+        "winner_address": "0x857a468a06e8ae3dd3c0d24f2653b45ecf6b4f2b",
+        "influence_side_a": 613100,
+        "influence_side_b": 708120,
+        "spectator_count_side_a": 13,
+        "spectator_count_side_b": 10,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 17620,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 50000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 1,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xa81599eac76045fce181ae0d83a5843c39867ad4"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 2,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 1,
+            "influence": 175000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 50000,
+            "spectator_address": "0xb0b3c842d26c255252ef0993094ba0f73c33231a"
+          },
+          {
+            "side": 1,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9f278a36adc671643522fd74761d35db1e8241fb"
+          }
+        ],
+        "rewards": null,
+        "host": "0xdb33d4b4775396d5b40db9365638e337b4533d9f",
+        "opponent": "0x857a468a06e8ae3dd3c0d24f2653b45ecf6b4f2b",
+        "winner": "0x857a468a06e8ae3dd3c0d24f2653b45ecf6b4f2b"
       },
       {
         "battle_id": "50000000344",
@@ -14735,6 +15639,144 @@
         "winner": "0xdb33d4b4775396d5b40db9365638e337b4533d9f"
       },
       {
+        "battle_id": "40000000345",
+        "tournament_id": 345,
+        "bout_id": 4,
+        "winner_address": "0xefba6f4352a4c8162dd789ab3788d5e287ca80cb",
+        "influence_side_a": 825720,
+        "influence_side_b": 1130700,
+        "spectator_count_side_a": 9,
+        "spectator_count_side_b": 15,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 1,
+            "influence": 17620,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 400000,
+            "spectator_address": "0x4193938622a6f2233db288e199e863fb9f999cdd"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 2,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 1,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 2,
+            "influence": 75100,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 2,
+            "influence": 200000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 2,
+            "influence": 120000,
+            "spectator_address": "0xb0b3c842d26c255252ef0993094ba0f73c33231a"
+          },
+          {
+            "side": 2,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xd70156b96e24f829da07f6068cb60ec54b184453"
+          }
+        ],
+        "rewards": null,
+        "host": "0xefba6f4352a4c8162dd789ab3788d5e287ca80cb",
+        "opponent": "0x327d0c6686a3fe84f5dcdffb670ffab87dcd44a6",
+        "winner": "0xefba6f4352a4c8162dd789ab3788d5e287ca80cb"
+      },
+      {
         "battle_id": "40000000344",
         "tournament_id": 344,
         "bout_id": 4,
@@ -15442,6 +16484,144 @@
         "host": "0x5fd4fa07178f49b2a4d599a0c82d2d73c3433a3d",
         "opponent": null,
         "winner": null
+      },
+      {
+        "battle_id": "30000000345",
+        "tournament_id": 345,
+        "bout_id": 3,
+        "winner_address": "0x526d50809d7d1710ee82bf5a73cfcf431a264893",
+        "influence_side_a": 607100,
+        "influence_side_b": 850788,
+        "spectator_count_side_a": 8,
+        "spectator_count_side_b": 16,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 19188,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x4193938622a6f2233db288e199e863fb9f999cdd"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 2,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xa81599eac76045fce181ae0d83a5843c39867ad4"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 2,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 1,
+            "influence": 175000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9f278a36adc671643522fd74761d35db1e8241fb"
+          }
+        ],
+        "rewards": null,
+        "host": "0x453c6a0b01732d61bfc3e6b94debf288a8d1e16d",
+        "opponent": "0x526d50809d7d1710ee82bf5a73cfcf431a264893",
+        "winner": "0x526d50809d7d1710ee82bf5a73cfcf431a264893"
       },
       {
         "battle_id": "30000000344",
@@ -16290,6 +17470,139 @@
         "host": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b",
         "opponent": "0x526d50809d7d1710ee82bf5a73cfcf431a264893",
         "winner": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+      },
+      {
+        "battle_id": "20000000345",
+        "tournament_id": 345,
+        "bout_id": 2,
+        "winner_address": "0xce618efa03023d3157d86a7f3d8bc56f7f56ba63",
+        "influence_side_a": 1006100,
+        "influence_side_b": 482600,
+        "spectator_count_side_a": 13,
+        "spectator_count_side_b": 10,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 1,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 1,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 1,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 1,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 2,
+            "influence": 75100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 2,
+            "influence": 40000,
+            "spectator_address": "0x112f6a10a6867ffd54559f8713ffdf60516954db"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9f278a36adc671643522fd74761d35db1e8241fb"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xd70156b96e24f829da07f6068cb60ec54b184453"
+          }
+        ],
+        "rewards": null,
+        "host": "0xce618efa03023d3157d86a7f3d8bc56f7f56ba63",
+        "opponent": "0xd97921ad6b4c9e2989b3ab12841265a9492f23a2",
+        "winner": "0xce618efa03023d3157d86a7f3d8bc56f7f56ba63"
       },
       {
         "battle_id": "20000000344",
@@ -17176,6 +18489,154 @@
         "winner": "0x83f0fbbc2ccb84e38c32ac9d39aa130c7e1ed47c"
       },
       {
+        "battle_id": "10000000345",
+        "tournament_id": 345,
+        "bout_id": 1,
+        "winner_address": "0x77cd22b584c063df360ef6b324ecce08b19839ca",
+        "influence_side_a": 898000,
+        "influence_side_b": 860688,
+        "spectator_count_side_a": 14,
+        "spectator_count_side_b": 12,
+        "sponsor_count": null,
+        "sponsors": null,
+        "spectators": [
+          {
+            "side": 2,
+            "influence": 19988,
+            "spectator_address": "0x62dd4a3946fbe64fc842fb886102cfeb5e263e56"
+          },
+          {
+            "side": 2,
+            "influence": 25000,
+            "spectator_address": "0xfd43d164d1bf5e69bd7e7b487d8237b393039f77"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9a0c278345e11d038cc32adcf4bf9390ca24b470"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x76a2e6e8291712f4fafa381d1663762fb4e632ca"
+          },
+          {
+            "side": 2,
+            "influence": 500000,
+            "spectator_address": "0xc088e033a5db0f1b2fef24726f78fbaa428d8238"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0x11c253e09f526a2a3e85532fb8c6344ab4f07bbd"
+          },
+          {
+            "side": 2,
+            "influence": 2500,
+            "spectator_address": "0xac40d5a0193a52b4879ae254ad3138e3c0d5138b"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0x4193938622a6f2233db288e199e863fb9f999cdd"
+          },
+          {
+            "side": 2,
+            "influence": 100000,
+            "spectator_address": "0xc19afd640868059fda8946e26cbf17e4e33fa41d"
+          },
+          {
+            "side": 2,
+            "influence": 6000,
+            "spectator_address": "0xa9273979aecb135f1228bd039d370c8489a24f38"
+          },
+          {
+            "side": 2,
+            "influence": 5000,
+            "spectator_address": "0x62179ee2cf2346568a28da2f2c39d33abb5a3ba9"
+          },
+          {
+            "side": 2,
+            "influence": 20000,
+            "spectator_address": "0xa26b8ea40add0610d2744c815519c0d45126f86e"
+          },
+          {
+            "side": 1,
+            "influence": 3000,
+            "spectator_address": "0xf7aae2d01ed4d421988879e71d007c5f8b861efb"
+          },
+          {
+            "side": 1,
+            "influence": 40000,
+            "spectator_address": "0x6f98788f5eefca7410ad90beba780efc7cf02556"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x3f155e348738c9598fa8faac512b428ecd033e67"
+          },
+          {
+            "side": 1,
+            "influence": 25000,
+            "spectator_address": "0x40722585debfb55253778242781b66f1dd82c0b6"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0x8721c56a25fa686ecc2854a1fc934792d679bc91"
+          },
+          {
+            "side": 2,
+            "influence": 50100,
+            "spectator_address": "0xb9aa2cc8aa59e2f7943fe752993ce0866f307a47"
+          },
+          {
+            "side": 2,
+            "influence": 10000,
+            "spectator_address": "0xe0e0c4b5f40b162ba3ab1616aac5e2c218bfb283"
+          },
+          {
+            "side": 1,
+            "influence": 5000,
+            "spectator_address": "0xee3bebf4b3c524c802193602d98236e091873cc5"
+          },
+          {
+            "side": 1,
+            "influence": 10000,
+            "spectator_address": "0xf6e64ae0cfe857f64376eb76cb18d4f7f3d5e408"
+          },
+          {
+            "side": 1,
+            "influence": 200000,
+            "spectator_address": "0x473d9fead64878a95035a4fd7349d3f14754cc8f"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0xb0b3c842d26c255252ef0993094ba0f73c33231a"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0xe8ce01e177532dc98bcc0cb3bd83d4345c97143b"
+          },
+          {
+            "side": 2,
+            "influence": 22100,
+            "spectator_address": "0x4050ea65830caaf5f73dfef8c8d4a22b9a4c8be6"
+          },
+          {
+            "side": 1,
+            "influence": 100000,
+            "spectator_address": "0x9f278a36adc671643522fd74761d35db1e8241fb"
+          }
+        ],
+        "rewards": null,
+        "host": "0x77cd22b584c063df360ef6b324ecce08b19839ca",
+        "opponent": "0x16396ec01ab592125d56c55f2ba691420aacbf05",
+        "winner": "0x77cd22b584c063df360ef6b324ecce08b19839ca"
+      },
+      {
         "battle_id": "10000000344",
         "tournament_id": 344,
         "bout_id": 1,
@@ -18017,5 +19478,5 @@
       }
     ]
   },
-  "globalLastUpdated": "2025-05-24T17:08:49.852Z"
+  "globalLastUpdated": "2025-05-24T18:29:53.994Z"
 }
