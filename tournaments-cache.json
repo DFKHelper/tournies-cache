@@ -194621,7 +194621,7 @@
     "creator": "0x7f7d6e586d34c3de5e61e5be4bd62d2f14839b7a",
     "tournament_start_time": "1748138400",
     "rounds": 4,
-    "current_round": 3,
+    "current_round": 4,
     "remaining_bouts_in_round": 0,
     "round_length": 25,
     "setup_time": 0,
@@ -194631,12 +194631,12 @@
     "shot_clock_forfeit_count": 4,
     "best_of": 1,
     "entrants": 10,
-    "entrants_claimed": 8,
+    "entrants_claimed": 10,
     "durability_per_round": 0,
     "loss_experience": 500,
     "win_experience": 1000,
     "tournament_type": 1,
-    "tournament_state": 5,
+    "tournament_state": 6,
     "auto_random": false,
     "tournament_sponsored": true,
     "entry_fee": "50",
@@ -194729,7 +194729,7 @@
         "latest_bracket_index": 14
       },
       {
-        "claimed": false,
+        "claimed": true,
         "potions": [
           6,
           3,
@@ -194770,7 +194770,7 @@
           1000000587005
         ],
         "player_id": 4,
-        "lost_round": false,
+        "lost_round": true,
         "current_round": 4,
         "received_pass": false,
         "player_address": "0x857a468a06e8ae3dd3c0d24f2653b45ecf6b4f2b",
@@ -194876,7 +194876,7 @@
         "latest_bracket_index": 22
       },
       {
-        "claimed": false,
+        "claimed": true,
         "potions": [
           8,
           1,
@@ -194921,8 +194921,8 @@
         "current_round": 4,
         "received_pass": false,
         "player_address": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85",
-        "won_tournament": false,
-        "latest_bracket_index": 28
+        "won_tournament": true,
+        "latest_bracket_index": 30
       },
       {
         "claimed": true,
@@ -195201,7 +195201,7 @@
       5,
       7,
       4,
-      0
+      7
     ],
     "bouts": [
       {
@@ -195229,14 +195229,14 @@
         "_source": "tournament_cache"
       },
       {
-        "bout_id": 15,
-        "battle_id": 150000000348,
+        "bout_id": 16,
+        "battle_id": 160000000348,
         "sponsor_count": null,
         "winner_address": null,
-        "influence_side_a": 1257886,
-        "influence_side_b": 392891,
-        "spectator_count_side_a": 11,
-        "spectator_count_side_b": 6,
+        "influence_side_a": null,
+        "influence_side_b": null,
+        "spectator_count_side_a": null,
+        "spectator_count_side_b": null,
         "tournament_id": "348",
         "_source": "tournament_cache"
       },
@@ -195261,6 +195261,18 @@
         "influence_side_b": 66225,
         "spectator_count_side_a": 10,
         "spectator_count_side_b": 2,
+        "tournament_id": "348",
+        "_source": "tournament_cache"
+      },
+      {
+        "bout_id": 15,
+        "battle_id": 150000000348,
+        "sponsor_count": null,
+        "winner_address": "0x2f2b3eeea3a975d7f6eed2d7e2786c141c1e0c85",
+        "influence_side_a": 1257886,
+        "influence_side_b": 392891,
+        "spectator_count_side_a": 11,
+        "spectator_count_side_b": 6,
         "tournament_id": "348",
         "_source": "tournament_cache"
       },
